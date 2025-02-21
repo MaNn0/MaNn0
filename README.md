@@ -2,9 +2,9 @@
 
 ## 🚀 About Me:
 - 🔭 I’m a Full Stack Developer specializing in **React, Node.js, and Python (Odoo)**
-- 🌱 Currently enhancing my skills in **Odoo Development & API Integrations**
-- 💡 Passionate about **Software Engineering, Web Development, and DevOps**
-- 🎯 Aspiring to work in **Germany / Europe** in the tech industry
+- 🌱 Currently enhancing my skills in **MERN , Odoo Development & API Integrations**
+- 💡 Passionate about **Software Engineering, Web Development**
+- 🎯 Aspiring to work in **UAE / Europe** in the tech industry
 
 ## 🔧 Tech Stack:
 ### 💻 Languages:
@@ -18,12 +18,35 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-512DA8?style=flat&logo=odoo&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Reactbits](https://img.shields.io/badge/-Reactbits-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🗃 Databases & ORM:
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
+
+### 💳 Payment Gateways:
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)
+![Paymob](https://img.shields.io/badge/-Paymob-FF6600?style=flat&logo=paypal&logoColor=white)
+
+### 🔐 Authentication & Security:
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
 ### 🛠 Tools & Technologies:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🎨 Frontend:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaNn0&show_icons=true&theme=radical)
