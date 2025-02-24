@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaNn0&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaNn0&layout=compact&theme=radical&exclude_repo=mwash)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaNn0&layout=compact&theme=radical&exclude_repo=mwash,COVID-19-Project)
 
 
 ## 🏆 GitHub Trophies:
