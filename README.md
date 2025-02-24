@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Mano 👋 </h1>
+<h1 align="center"> Hi, I'm Abdelrahman 👋 </h1>
 
 ## 🚀 About Me:
 - 🔭 I’m a Full Stack Developer specializing in **React, Node.js, and Python (Odoo)**
